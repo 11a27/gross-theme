@@ -1,15 +1,3 @@
-font:
-        size: 11
-        normal:
-                family: FiraMono 
-                style: Regular 
-        bold:
-                family: FiraMono  
-                style: Bold
-        italic:
-                family: FiraMono 
-                # style: Italic
-
 colors:
         # Default colors
         primary:
